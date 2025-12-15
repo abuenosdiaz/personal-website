@@ -10,7 +10,6 @@ export default function Projects() {
             <button onClick={() => console.log("clicked")}>
                 Click
             </button> 
-            {clicked && <p>Button was clicked</p>}
         </>
 
     )
